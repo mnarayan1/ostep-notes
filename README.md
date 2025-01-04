@@ -1,3 +1,3 @@
 # ostep-notes
 
-notes on OSTEP
+Notes on OSTEP, concise
