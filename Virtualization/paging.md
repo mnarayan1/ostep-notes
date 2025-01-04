@@ -1,6 +1,6 @@
 ## Paging
 
-Rather tha aplitting address space into logical segments, we divide process address space into fixed-size units called **pages**. View physical memory as an array of slots called **page frames**.  
+Rather tham aplitting address space into logical segments, we divide process address space into fixed-size units called **pages**. View physical memory as an array of slots called **page frames**.  
 
 Record where each virtual page of the address space is placed in a page table. Each process has a page table.
 
